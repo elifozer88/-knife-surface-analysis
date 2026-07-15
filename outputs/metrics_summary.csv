@@ -1,0 +1,8 @@
+model,type,MAE,RMSE,MSE,R2,accuracy,macro_f1,notes,figure
+cart_regressor,regression,0.0263,0.04,0.001602,0.5474,,,,outputs/figures/regression_cart_tree.png
+cart_regressor_pruned,regression,0.028,,,0.5066,,,,
+cart_model,classification,,,,,0.61,0.58,Gini CART,outputs/figures/gini_optimized_tree.png
+c45_model,classification,,,,,0.6,0.58,C4.5 (entropy),outputs/figures/c45_optimized_tree.png
+cart_model_pruned,classification,,,,,0.57,0.55,Pruned Gini CART,
+c45_model_pruned,classification,,,,,0.57,0.56,Pruned C4.5,
+cart_regressor_pruned_matrix,regression,0.027,0.0411,0.001686,,,,"{'criterion': 'squared_error', 'max_depth': 6, 'min_samples_split': 40, 'min_samples_leaf': 25}",outputs/figures/pruned_regression_matrix_run3.png
