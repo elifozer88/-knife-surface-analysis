@@ -1,0 +1,26 @@
+Knife_ID,Actual_Class,CART_Matrix_Status,C45_Matrix_Status,Imitation_Status
+Knife_619,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_443,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_751,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_707,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_635,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_382,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_699,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_219,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_310,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_486,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_526,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_488,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_445,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_260,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_197,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_588,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_412,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_328,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_111,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_97,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_291,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic
+Knife_686,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_629,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_79,0,True Negative (Correct Class 0),True Negative (Correct Class 0),Perfect Mimic
+Knife_553,1,True Positive (Correct Class 1),True Positive (Correct Class 1),Perfect Mimic

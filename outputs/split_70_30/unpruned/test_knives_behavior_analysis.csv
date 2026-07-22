@@ -1,0 +1,257 @@
+Knife_ID,Actual_Class,CART_Prediction,CART_Confidence,CART_Matrix_Status,C45_Prediction,C45_Confidence,C45_Matrix_Status,Model_Behavior
+Knife_67,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_317,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_659,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_798,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_399,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_619,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_443,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_796,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_751,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_790,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_707,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_635,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_441,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_382,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_437,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_383,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_267,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_699,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_715,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_838,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_68,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_558,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_767,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_219,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_717,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_800,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_212,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_785,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_432,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_310,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_519,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_486,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_663,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_708,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_526,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_488,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_213,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_287,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_40,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_445,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_260,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_706,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_303,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_31,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_197,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_588,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_140,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_412,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_328,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_347,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_832,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_597,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_169,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_520,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_496,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_193,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_24,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_236,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_676,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_670,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_111,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_787,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_368,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_513,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_255,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_87,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_97,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_301,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_695,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_291,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_137,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_110,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_210,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_232,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_759,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_64,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_686,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_848,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_327,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_66,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_629,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_79,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_508,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_560,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_577,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_553,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_667,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_334,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_466,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_175,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_50,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_121,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_482,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_602,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_138,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_228,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_847,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_631,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_690,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_34,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_32,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_666,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_596,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_366,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_77,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_665,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_812,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_364,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_73,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_78,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_738,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_542,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_760,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_345,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_451,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_312,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_434,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_623,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_750,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_501,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_576,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_694,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_747,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_343,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_384,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_714,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_389,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_6,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_55,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_421,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_480,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_216,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_98,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_552,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_815,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_362,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_771,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_711,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_85,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_11,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_248,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_381,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_446,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_119,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_522,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_324,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_30,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_293,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_378,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_645,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_332,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_82,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_674,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_339,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_537,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_495,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_245,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_546,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_728,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_353,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_683,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_835,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_251,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_335,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_209,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_211,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_361,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_8,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_500,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_156,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_530,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_102,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_450,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_266,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_743,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_626,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_3,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_548,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_705,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_630,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_214,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_810,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_484,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_794,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_544,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_607,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_765,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_581,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_829,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_440,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_351,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_413,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_80,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_149,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_639,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_778,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_199,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_360,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_638,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_429,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_698,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_134,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_427,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_295,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_523,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_56,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_816,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_642,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_692,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_329,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_431,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_205,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_587,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_418,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_297,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_679,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_487,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_61,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_200,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_808,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_582,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_491,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_394,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_261,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_755,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_651,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_828,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_282,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_410,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_333,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_766,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_91,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_799,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_182,0,0,0.0,True Negative (Correct Class 0),1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_786,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_406,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_300,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_159,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_70,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_426,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_132,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_45,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_842,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",0,0.0,True Negative (Correct Class 0),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_71,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
+Knife_435,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_805,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_397,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_448,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",1,1.0,True Positive (Correct Class 1),"C4.5 Only Mimic (C4.5 matched correctly, CART failed)"
+Knife_281,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_240,1,1,1.0,True Positive (Correct Class 1),0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)","CART Only Mimic (CART matched correctly, C4.5 failed)"
+Knife_136,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_83,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_166,1,0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",0,0.0,"False Negative (Type II Error - Predicted 0, Actual 1)",Shared Failure (Both committed False Negative)
+Knife_165,0,0,0.0,True Negative (Correct Class 0),0,0.0,True Negative (Correct Class 0),Perfect Imitation (Both correctly matched Class 0)
+Knife_29,0,1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",1,1.0,"False Positive (Type I Error - Predicted 1, Actual 0)",Shared Failure (Both committed False Positive)
+Knife_454,1,1,1.0,True Positive (Correct Class 1),1,1.0,True Positive (Correct Class 1),Perfect Imitation (Both correctly matched Class 1)
